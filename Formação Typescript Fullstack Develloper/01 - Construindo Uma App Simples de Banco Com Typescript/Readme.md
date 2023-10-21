@@ -1,6 +1,7 @@
 # Desenvolvendo o Dio Bank
 desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
+forked from [digitalinnovationone/desafio01-ts](https://github.com/digitalinnovationone/desafio01-ts)
 #### Projeto desenvolvido com conceitos básicos de typescript
 
 ### Tecnologias
