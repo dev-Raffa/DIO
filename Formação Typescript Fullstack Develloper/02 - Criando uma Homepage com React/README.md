@@ -1,6 +1,7 @@
 # Desenvolvendo o Dio Bank
 desenvolvido por [Nathally Souza](https://github.com/nathyts)
-Forked from [digitalinnovationone/desafio02-ts](https://github.com/digitalinnovationone/desafio02-ts.git)
+
+forked from [digitalinnovationone/desafio02-ts](https://github.com/digitalinnovationone/desafio02-ts.git)
 
 #### Projeto desenvolvido com React
 
